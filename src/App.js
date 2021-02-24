@@ -1,20 +1,13 @@
-
-import React, {useState} from 'react'
-
 import './App.css';
+import Button from './components/Button';
 
 
 function App() {
 
-  const [text, setText] = useState("")
-
-  const handleSubmit = () => {
-    setText("Clicked!!")
-  }
   
   return (
     <div className="App">
-      <button onClick={handleSubmit} className="btn">{ text || "Click ME"}</button>
+     <Button />
     </div>
   );
 }
