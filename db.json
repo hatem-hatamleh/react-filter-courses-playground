@@ -1,0 +1,51 @@
+{
+ "courses": [
+  {
+   "id": 1,
+   "title": "Cypress.io",
+   "description": "A full Cypress Course from scratch to master",
+   "price": 20,
+   "videos": 120,
+   "isQA": true,
+   "image": "https://images.unsplash.com/photo-1576702438167-5341af8f0c13?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80"
+  },
+  {
+   "id": 2,
+   "title": "Selenium",
+   "description": "A full Selenium Course With Java",
+   "price": 15,
+   "videos": 180,
+   "isQA": true,
+   "image": "https://images.unsplash.com/photo-1509395062183-67c5ad6faff9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=800"
+  },
+  {
+   "id": 3,
+   "title": "Appium",
+   "description": "A full Appium Course With Java",
+   "price": 30,
+   "videos": 310,
+   "isQA": true,
+   "image": "https://images.unsplash.com/photo-1507646227500-4d389b0012be?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80"
+  },
+  {
+   "id": 4,
+   "title": "React",
+   "description": "A full React Course include hooks",
+   "price": 80,
+   "videos": 501,
+   "isQA": false,   
+   "image": "https://images.unsplash.com/photo-1577375729152-4c8b5fcda381?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80"
+
+   
+  },
+  {
+   "id": 5,
+   "title": "Vue",
+   "description": "A full Vue Course",
+   "price": 40,
+   "videos": 233,
+   "isQA": false,
+   "image": "https://images.unsplash.com/photo-1523800503107-5bc3ba2a6f81?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80"
+  }
+ ]
+}

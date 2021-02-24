@@ -6,7 +6,6 @@ import '../App.css';
 function Button() {
 
   const [text, setText] = useState("")
-
   const handleSubmit = () => {
     setText("Clicked!!")
   }
