@@ -1,0 +1,357 @@
+{
+  "/Users/hatemhatemleh/Desktop/cypress-react-playground/src/components/Course.js": {
+    "path": "/Users/hatemhatemleh/Desktop/cypress-react-playground/src/components/Course.js",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 3,
+          "column": 15
+        },
+        "end": {
+          "line": 19,
+          "column": 1
+        }
+      },
+      "1": {
+        "start": {
+          "line": 5,
+          "column": 52
+        },
+        "end": {
+          "line": 5,
+          "column": 62
+        }
+      },
+      "2": {
+        "start": {
+          "line": 7,
+          "column": 1
+        },
+        "end": {
+          "line": 18,
+          "column": 2
+        }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": {
+            "line": 3,
+            "column": 15
+          },
+          "end": {
+            "line": 3,
+            "column": 16
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 19,
+            "column": 1
+          }
+        },
+        "line": 3
+      }
+    },
+    "branchMap": {},
+    "s": {
+      "0": 2,
+      "1": 4,
+      "2": 4
+    },
+    "f": {
+      "0": 4
+    },
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "0af1ce74015004670969001e7c884614c086f7ce"
+  },
+  "/Users/hatemhatemleh/Desktop/cypress-react-playground/src/components/CourseList.js": {
+    "path": "/Users/hatemhatemleh/Desktop/cypress-react-playground/src/components/CourseList.js",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 4,
+          "column": 19
+        },
+        "end": {
+          "line": 14,
+          "column": 1
+        }
+      },
+      "1": {
+        "start": {
+          "line": 6,
+          "column": 17
+        },
+        "end": {
+          "line": 6,
+          "column": 27
+        }
+      },
+      "2": {
+        "start": {
+          "line": 7,
+          "column": 18
+        },
+        "end": {
+          "line": 7,
+          "column": 32
+        }
+      },
+      "3": {
+        "start": {
+          "line": 9,
+          "column": 1
+        },
+        "end": {
+          "line": 13,
+          "column": 2
+        }
+      },
+      "4": {
+        "start": {
+          "line": 11,
+          "column": 38
+        },
+        "end": {
+          "line": 11,
+          "column": 78
+        }
+      },
+      "5": {
+        "start": {
+          "line": 11,
+          "column": 105
+        },
+        "end": {
+          "line": 11,
+          "column": 145
+        }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": {
+            "line": 4,
+            "column": 19
+          },
+          "end": {
+            "line": 4,
+            "column": 20
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 30
+          },
+          "end": {
+            "line": 14,
+            "column": 1
+          }
+        },
+        "line": 4
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": {
+            "line": 11,
+            "column": 28
+          },
+          "end": {
+            "line": 11,
+            "column": 29
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 11,
+            "column": 38
+          },
+          "end": {
+            "line": 11,
+            "column": 78
+          }
+        },
+        "line": 11
+      },
+      "2": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": {
+            "line": 11,
+            "column": 95
+          },
+          "end": {
+            "line": 11,
+            "column": 96
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 11,
+            "column": 105
+          },
+          "end": {
+            "line": 11,
+            "column": 145
+          }
+        },
+        "line": 11
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": {
+            "line": 11,
+            "column": 4
+          },
+          "end": {
+            "line": 11,
+            "column": 146
+          }
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": {
+              "line": 11,
+              "column": 16
+            },
+            "end": {
+              "line": 11,
+              "column": 79
+            }
+          },
+          {
+            "start": {
+              "line": 11,
+              "column": 82
+            },
+            "end": {
+              "line": 11,
+              "column": 146
+            }
+          }
+        ],
+        "line": 11
+      }
+    },
+    "s": {
+      "0": 2,
+      "1": 2,
+      "2": 2,
+      "3": 2,
+      "4": 4,
+      "5": 0
+    },
+    "f": {
+      "0": 2,
+      "1": 4,
+      "2": 0
+    },
+    "b": {
+      "0": [
+        2,
+        0
+      ]
+    },
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "e26eb4988a2f65cb3e4ca70045afbacd096a3ae3"
+  },
+  "/Users/hatemhatemleh/Desktop/cypress-react-playground/src/components/test/CourseList.spec.js": {
+    "path": "/Users/hatemhatemleh/Desktop/cypress-react-playground/src/components/test/CourseList.spec.js",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 9,
+          "column": 0
+        },
+        "end": {
+          "line": 29,
+          "column": 2
+        }
+      },
+      "1": {
+        "start": {
+          "line": 10,
+          "column": 18
+        },
+        "end": {
+          "line": 26,
+          "column": 4
+        }
+      },
+      "2": {
+        "start": {
+          "line": 27,
+          "column": 26
+        },
+        "end": {
+          "line": 27,
+          "column": 28
+        }
+      },
+      "3": {
+        "start": {
+          "line": 28,
+          "column": 2
+        },
+        "end": {
+          "line": 28,
+          "column": 65
+        }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": {
+            "line": 9,
+            "column": 33
+          },
+          "end": {
+            "line": 9,
+            "column": 34
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 9,
+            "column": 39
+          },
+          "end": {
+            "line": 29,
+            "column": 1
+          }
+        },
+        "line": 9
+      }
+    },
+    "branchMap": {},
+    "s": {
+      "0": 2,
+      "1": 2,
+      "2": 2,
+      "3": 2
+    },
+    "f": {
+      "0": 2
+    },
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "34eb313e781096a955836cf2216d8df36edaf63a"
+  }
+}
